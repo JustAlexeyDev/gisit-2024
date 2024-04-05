@@ -31,7 +31,12 @@
 - react-router
 - lucide-react
 ## Установка и запуск Frontend части:
-Напишите в терминале
+1. Скачайте и установите [Nodejs](https://nodejs.org/).
+2. Скопируйте репозиторий (Если уже не сделали этого)
+```
+git clone https://github.com/JustAlexeyDev/gisit-2024.git
+```
+3. Напишите в терминале:
 - `cd Frontend` (Переход в директорию)
 - `npm install` или `npm i` (Установка зависимостей)
 - `npm start` (Запуск сервера)
@@ -47,7 +52,7 @@ git clone https://github.com/JustAlexeyDev/gisit-2024.git
 ```
 cd Backend
 ```
-5. Пропишите следующие команды
+5. Напишите в терминале:
 ```
 pip install -r requirements.txt
 python manage.py migrate
