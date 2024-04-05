@@ -30,7 +30,6 @@
 - reactDOM
 - react-router
 - lucide-react
-- axios
 ## Установка и запуск Frontend части:
 Напишите в терминале
 - `cd Frontend` (Переход в директорию)
