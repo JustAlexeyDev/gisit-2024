@@ -41,11 +41,11 @@
 1. Скачайте и установите [python 3.10](https://www.python.org/downloads/release/python-31011/). Во время установки вам будет предложено добавить python в PATH, согласитесь.
 2. Скопируйте репозиторий (Если уже не сделали этого)
 ```
-git clone https://github.com/JustAlexeyDev/Netler.git
+git clone https://github.com/JustAlexeyDev/gisit-2024.git
 ```
-4. Переместитесь в папку *backend*:
+4. Переместитесь в папку *Backend*:
 ```
-cd backend
+cd Backend
 ```
 5. Пропишите следующие команды
 ```
