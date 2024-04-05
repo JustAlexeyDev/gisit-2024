@@ -1,0 +1,12 @@
+:root {
+    --light--background--color: #111111;
+    --dark--background--color: #111111;
+    --accent--text--color: #111111;
+    --accent--color: #111111;
+    --light--color: #111111;
+    --dark--color: #111111;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
