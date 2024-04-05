@@ -10,3 +10,16 @@ body {
     display: flex;
     flex-direction: column;
 }
+.Page {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    gap: 20px;
+    width: 100%;
+    height: 100%;
+}
+.Header-Container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

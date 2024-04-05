@@ -1,7 +1,12 @@
+import Header from "../Components/Header";
+
 const Home = () => {
     return(
-        <div>
-            Home
+        <div className="Page">
+            <Header />
+            <div>
+
+            </div>
         </div>
     );
 }
