@@ -13,8 +13,8 @@
 ### Языки
 - JavaScript
 - JSX
-- HTML
-- CSS
+- HTML 5
+- CSS 3
 - Python 3.10.11
 ### Фреймворки
 - Django
