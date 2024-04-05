@@ -24,7 +24,7 @@
 - Rest Framework
 - channels
 ### База данных
-- PostgreSQL
+- sqllite3
 ### Пакеты Node.js
 - react
 - react-dom
