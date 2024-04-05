@@ -27,8 +27,9 @@
 - PostgreSQL
 ### Пакеты Node.js
 - react
-- reactDOM
-- react-router
+- react-dom
+- react-scripts
+- react-router-dom
 - lucide-react
 ## Установка и запуск Frontend части:
 1. Скачайте и установите [Nodejs](https://nodejs.org/).
