@@ -3,17 +3,18 @@
     src: url(../Fonts/PTSansNarrow-Regular.ttf);
 }
 :root {
-    --light--background--color: #111111;
-    --dark--background--color: #111111;
-    --accent--text--color: #111111;
-    --accent--color: #111111;
-    --light--color: #111111;
+    --background--color: #102238;
+    --accent--text--color: #EA872C;
+    --accent--color: #EA872C;
+    --light--color: #ffffff;
     --dark--color: #111111;
 }
 body {
     display: flex;
     flex-direction: column;
     font-family: Regular;
+    background-color: var(--background--color);
+    color: var(--light--color);
 }
 .Page {
     display: flex;
