@@ -23,7 +23,7 @@ SECRET_KEY = 'django-insecure-j+th+g611$3r%6fr^0cg7%cw524wbq1g)i9jig63u#^=!)9ql9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["0.0.0.0"]
+ALLOWED_HOSTS = ["0.0.0.0", '127.0.0.1']
 
 
 # Application definition
@@ -36,6 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'fastapi',
+    'oauth2_provider',
+    "users",
 ]
 
 MIDDLEWARE = [
@@ -98,6 +100,9 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+
+AUTH_USER_MODEL = 'users.User'
+LOGIN_URL = '/admin/login/'
 
 # Internationalization
 # https://docs.djangoproject.com/en/4.2/topics/i18n/
