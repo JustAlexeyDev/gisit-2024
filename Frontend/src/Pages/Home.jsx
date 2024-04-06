@@ -1,12 +1,15 @@
 import Header from "../Components/Header";
-
+import Footer from "../Components/Footer";
 const Home = () => {
     return(
-        <div className="Page">
+        <div>
             <Header />
-            <div>
-
-            </div>
+            <div className="Page">
+                <div>
+                    Home
+                </div>
+            </div>            
+            <Footer />
         </div>
     );
 }

@@ -18,8 +18,11 @@ body {
     width: 100%;
     height: 100%;
 }
-.Header-Container {
+.Header--Container {
     display: flex;
     justify-content: space-between;
     width: 100%;
+}
+.Footer--Container {
+    display: flex;
 }

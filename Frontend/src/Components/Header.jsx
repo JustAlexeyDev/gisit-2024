@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return(
-    <div className="Header-Container">
+    <div className="Header--Container">
       Header
     </div>
   );
