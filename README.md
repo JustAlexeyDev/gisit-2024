@@ -22,7 +22,6 @@
 - ReactJS
 #### Библиотеки Python
 - Rest Framework
-- channels
 ### База данных
 - sqllite3
 ### Пакеты Node.js
